@@ -1,0 +1,38 @@
+.Myheader {
+  background-color: blue;
+  color: white;
+  width: 100% !important;
+}
+.imgDiv {
+  width: 100% !important;
+  text-align: center;
+  background-color: rgb(122, 122, 165);
+}
+.Myimg {
+  margin-top: 50px !important;
+  width: 200px;
+  display: none;
+}
+.MyimgShow {
+  margin-top: 50px !important;
+  width: 200px;
+}
+.Myimgbig {
+  margin-top: 50px !important;
+  width: 300px;
+}
+.MyimgSmall {
+  margin-top: 50px !important;
+  width: 100px;
+}
+.MyimgHidden {
+  display: none;
+}
+
+.myBulb {
+  text-align: center;
+}
+.myPara {
+  border: 1px solid grey;
+  padding-bottom: 10px;
+}
